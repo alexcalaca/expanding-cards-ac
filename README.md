@@ -4,7 +4,7 @@
 
 <br/>
 
-It can be used for image galleries, testimoniaals, info cards and so on.
+It can be used for image galleries, testimonials, info cards and so on.
 
 Live view: https://alexcalaca.github.io/expanding-cards-ac/ <br/><br/>
 
